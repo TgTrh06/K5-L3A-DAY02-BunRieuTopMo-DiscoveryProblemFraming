@@ -9,8 +9,8 @@
 - Họ tên:
 - MSSV:
 - Email trường (không bắt buộc, repo có thể để public):
-- Tên nhóm:
-- Link repo nhóm:
+- Tên nhóm: BunRieuTopMo
+- Link repo nhóm: https://github.com/TgTrh06/K5-L3A-DAY02-BunRieuTopMo-DiscoveryProblemFraming.git
 
 ---
 
